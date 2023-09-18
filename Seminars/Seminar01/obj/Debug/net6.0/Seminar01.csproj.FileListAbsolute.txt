@@ -1,0 +1,15 @@
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\Seminar01.csproj.AssemblyReference.cache
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\Seminar01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\Seminar01.AssemblyInfoInputs.cache
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\Seminar01.AssemblyInfo.cs
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\Seminar01.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\bin\Debug\net6.0\Seminar01.exe
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\bin\Debug\net6.0\Seminar01.deps.json
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\bin\Debug\net6.0\Seminar01.runtimeconfig.json
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\bin\Debug\net6.0\Seminar01.dll
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\bin\Debug\net6.0\Seminar01.pdb
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\Seminar01.dll
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\refint\Seminar01.dll
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\Seminar01.pdb
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\Seminar01.genruntimeconfig.cache
+D:\GB\Знакомство с языком программирования C#\Seminars\Seminars\Seminar01\obj\Debug\net6.0\ref\Seminar01.dll
