@@ -7,7 +7,6 @@
 // int numberA = Convert.ToInt32(Console.ReadLine());
 // System.Console.Write("Input B: ");
 // int numberB = Convert.ToInt32(Console.ReadLine());
-
 // if(numberA > numberB)
 // {
 //     System.Console.Write($"max = {numberA}, min = {numberB}");
@@ -22,6 +21,18 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
+System.Console.Write("Input A: ");
+int A = Convert.ToInt32(Console.ReadLine());
+System.Console.Write("Input B: ");
+int B = Convert.ToInt32(Console.ReadLine());
+System.Console.Write("Input C: ");
+int C = Convert.ToInt32(Console.ReadLine());
+int max = A;
+if (B > A)
+    max = B;
+if (C > max)
+    max = C;
+System.Console.Write($"max = {max}");
 // Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 // 4 -> да
 // -3 -> нет
@@ -29,7 +40,6 @@
 
 // System.Console.Write("Input N: ");
 // int number = Convert.ToInt32(Console.ReadLine());
-
 //  if(number %2 == 0)
 // {
 //     System.Console.Write($"Even number ");
