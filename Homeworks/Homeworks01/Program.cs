@@ -17,9 +17,9 @@ System.Console.Write("Input N: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
  if(number %2 == 0)
-    {
+{
     System.Console.Write($"Even number ");
-    }
+}
  else
  {
     System.Console.Write($"The number is not even ");
